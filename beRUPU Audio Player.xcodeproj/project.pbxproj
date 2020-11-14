@@ -13,6 +13,8 @@
 		A5C1BA02255FDE63004199AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5C1BA00255FDE63004199AE /* Main.storyboard */; };
 		A5C1BA04255FDE65004199AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5C1BA03255FDE65004199AE /* Assets.xcassets */; };
 		A5C1BA07255FDE65004199AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5C1BA05255FDE65004199AE /* LaunchScreen.storyboard */; };
+		A5C1BA10255FDF43004199AE /* beRUPU.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A5C1BA0E255FDF43004199AE /* beRUPU.jpg */; };
+		A5C1BA11255FDF43004199AE /* audio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A5C1BA0F255FDF43004199AE /* audio.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A5C1BA03255FDE65004199AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5C1BA06255FDE65004199AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5C1BA08255FDE65004199AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5C1BA0E255FDF43004199AE /* beRUPU.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beRUPU.jpg; sourceTree = "<group>"; };
+		A5C1BA0F255FDF43004199AE /* audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				A5C1B9FE255FDE63004199AE /* ViewController.swift */,
 				A5C1BA00255FDE63004199AE /* Main.storyboard */,
 				A5C1BA03255FDE65004199AE /* Assets.xcassets */,
+				A5C1BA0F255FDF43004199AE /* audio.mp3 */,
+				A5C1BA0E255FDF43004199AE /* beRUPU.jpg */,
 				A5C1BA05255FDE65004199AE /* LaunchScreen.storyboard */,
 				A5C1BA08255FDE65004199AE /* Info.plist */,
 			);
@@ -125,9 +131,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5C1BA10255FDF43004199AE /* beRUPU.jpg in Resources */,
 				A5C1BA07255FDE65004199AE /* LaunchScreen.storyboard in Resources */,
 				A5C1BA04255FDE65004199AE /* Assets.xcassets in Resources */,
 				A5C1BA02255FDE63004199AE /* Main.storyboard in Resources */,
+				A5C1BA11255FDF43004199AE /* audio.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
